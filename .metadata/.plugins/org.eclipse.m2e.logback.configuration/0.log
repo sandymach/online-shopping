@@ -1,0 +1,263 @@
+2020-08-12 20:15:11,690 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-12 20:16:30,238 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:cart-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\cart-service\pom.xml.
+2020-08-12 20:16:51,446 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.12/lombok-1.18.12.pom
+2020-08-12 20:16:51,939 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.12/lombok-1.18.12.pom
+2020-08-12 20:16:52,487 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar
+2020-08-12 20:17:47,224 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar
+2020-08-12 20:17:52,693 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:order-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\order-service\pom.xml.
+2020-08-12 20:17:53,274 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:price-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\price-service\pom.xml.
+2020-08-12 20:17:55,110 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:spring-admin:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\spring-admin\pom.xml.
+2020-08-12 20:17:55,840 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:spring-catalog-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\spring-catalog-service\pom.xml.
+2020-08-12 20:18:15,659 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.12/lombok-1.18.12-sources.jar
+2020-08-12 20:18:16,440 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /order-service/src/main/java
+2020-08-12 20:18:16,441 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /order-service/src/main/resources
+2020-08-12 20:18:16,515 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /order-service/src/main/resources
+2020-08-12 20:18:16,563 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /order-service/src/test/java
+2020-08-12 20:18:41,154 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.12/lombok-1.18.12-sources.jar
+2020-08-12 20:18:51,556 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.12
+2020-08-12 20:18:52,082 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.12
+2020-08-12 20:18:52,483 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.12
+2020-08-12 20:18:52,786 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.12
+2020-08-12 20:18:55,208 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /price-service/src/main/java
+2020-08-12 20:18:55,209 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /price-service/src/main/resources
+2020-08-12 20:18:55,217 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /price-service/src/main/resources
+2020-08-12 20:18:55,227 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /price-service/src/test/java
+2020-08-12 20:19:09,652 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/main/java
+2020-08-12 20:19:09,652 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-08-12 20:19:09,658 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-08-12 20:19:11,917 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/test/java
+2020-08-12 20:19:24,487 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-admin/src/main/java
+2020-08-12 20:19:24,487 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-admin/src/main/resources
+2020-08-12 20:19:24,503 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-admin/src/main/resources
+2020-08-12 20:19:24,595 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-admin/src/test/java
+2020-08-12 20:19:27,807 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-catalog-service/src/main/java
+2020-08-12 20:19:27,808 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-catalog-service/src/main/resources
+2020-08-12 20:19:27,818 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-catalog-service/src/main/resources
+2020-08-12 20:19:27,862 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-catalog-service/src/test/java
+2020-08-12 20:20:08,751 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 230 sec
+2020-08-12 20:21:24,350 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:24,355 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:21:26,575 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:21:26,587 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:26,588 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\cart-service\src\test\resources
+2020-08-12 20:21:33,834 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:33,835 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:21:33,848 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:21:33,851 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:33,852 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\order-service\src\test\resources
+2020-08-12 20:21:37,176 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:37,177 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:21:37,178 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:21:37,181 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:37,182 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\price-service\src\test\resources
+2020-08-12 20:21:38,479 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:38,480 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:21:38,482 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:21:38,485 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:21:38,485 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-admin\src\test\resources
+2020-08-12 20:22:15,859 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:22:15,859 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:22:15,888 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:22:15,892 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:22:15,892 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-catalog-service\src\test\resources
+2020-08-12 20:23:06,457 [Worker-11: Launching Executing clean in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\cart-service
+2020-08-12 20:23:06,459 [Worker-11: Launching Executing clean in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-08-12 20:23:23,441 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:23:23,452 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:23:23,454 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:23:23,458 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:23:23,458 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\cart-service\src\test\resources
+2020-08-12 20:23:38,807 [Worker-0: Launching Executing install in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\cart-service
+2020-08-12 20:23:38,808 [Worker-0: Launching Executing install in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-12 20:23:55,098 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:23:55,099 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:23:55,102 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:23:55,108 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:23:55,109 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\cart-service\src\test\resources
+2020-08-12 20:25:33,279 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:33,281 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:25:33,283 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:25:33,291 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:33,292 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\cart-service\src\test\resources
+2020-08-12 20:25:42,692 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:42,693 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:25:42,694 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:25:42,697 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:42,697 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\order-service\src\test\resources
+2020-08-12 20:25:42,846 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:42,847 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:25:42,849 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:25:42,853 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:42,853 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\price-service\src\test\resources
+2020-08-12 20:25:42,991 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:42,992 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:25:42,994 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:25:42,997 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:42,997 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-admin\src\test\resources
+2020-08-12 20:25:43,133 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:43,134 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:25:43,135 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:25:43,139 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:25:43,139 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-catalog-service\src\test\resources
+2020-08-12 20:25:44,343 [Worker-11: Launching Executing install in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\cart-service
+2020-08-12 20:25:44,344 [Worker-11: Launching Executing install in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-12 20:30:04,333 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:30:04,333 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:30:04,334 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:30:04,337 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:30:04,337 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\cart-service\src\test\resources
+2020-08-12 20:33:49,958 [Worker-13: Launching Executing clean in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\cart-service
+2020-08-12 20:33:49,958 [Worker-13: Launching Executing clean in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-08-12 20:34:06,458 [Worker-21: Launching Executing install in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\cart-service
+2020-08-12 20:34:06,459 [Worker-21: Launching Executing install in H__new-sts_adm-ms-ass_cart-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-12 20:35:43,741 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:35:43,742 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:35:43,742 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:35:43,745 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:35:43,745 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\order-service\src\test\resources
+2020-08-12 20:35:51,923 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:35:51,923 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:35:51,923 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:35:51,926 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:35:51,926 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\price-service\src\test\resources
+2020-08-12 20:36:03,802 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:36:03,803 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:36:03,804 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:36:03,815 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:36:03,815 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-admin\src\test\resources
+2020-08-12 20:36:14,995 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:36:14,995 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:36:14,996 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:36:14,999 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:36:15,000 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-catalog-service\src\test\resources
+2020-08-12 20:36:28,541 [Worker-11: Launching Executing clean in H__new-sts_adm-ms-ass_order-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\order-service
+2020-08-12 20:36:28,542 [Worker-11: Launching Executing clean in H__new-sts_adm-ms-ass_order-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-08-12 20:36:34,921 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:36:34,934 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:36:34,941 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:36:34,946 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:36:34,946 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\order-service\src\test\resources
+2020-08-12 20:36:40,782 [Worker-13: Launching Executing install in H__new-sts_adm-ms-ass_order-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\order-service
+2020-08-12 20:36:40,782 [Worker-13: Launching Executing install in H__new-sts_adm-ms-ass_order-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-12 20:37:26,063 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:37:26,064 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:37:26,065 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:37:26,067 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:37:26,068 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\order-service\src\test\resources
+2020-08-12 20:38:05,668 [Worker-21: Launching Executing clean in H__new-sts_adm-ms-ass_price-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\price-service
+2020-08-12 20:38:05,669 [Worker-21: Launching Executing clean in H__new-sts_adm-ms-ass_price-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-08-12 20:38:28,919 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:38:28,921 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:38:28,923 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:38:28,926 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:38:28,927 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\price-service\src\test\resources
+2020-08-12 20:38:35,227 [Worker-24: Launching Executing install in H__new-sts_adm-ms-ass_price-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\price-service
+2020-08-12 20:38:35,227 [Worker-24: Launching Executing install in H__new-sts_adm-ms-ass_price-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-12 20:39:12,834 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:12,835 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:39:12,836 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:39:12,838 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:12,838 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\price-service\src\test\resources
+2020-08-12 20:39:23,788 [Worker-24: Launching Executing clean in H__new-sts_adm-ms-ass_spring-admin] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\spring-admin
+2020-08-12 20:39:23,788 [Worker-24: Launching Executing clean in H__new-sts_adm-ms-ass_spring-admin] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-08-12 20:39:28,206 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:28,207 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:39:28,209 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:39:28,213 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:28,213 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-admin\src\test\resources
+2020-08-12 20:39:34,100 [Worker-24: Launching Executing install in H__new-sts_adm-ms-ass_spring-admin] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\spring-admin
+2020-08-12 20:39:34,100 [Worker-24: Launching Executing install in H__new-sts_adm-ms-ass_spring-admin] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-12 20:39:48,442 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:48,443 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:39:48,444 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:39:48,446 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:48,446 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-admin\src\test\resources
+2020-08-12 20:39:49,867 [Worker-23: Launching Executing clean in H__new-sts_adm-ms-ass_spring-catalog-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\spring-catalog-service
+2020-08-12 20:39:49,868 [Worker-23: Launching Executing clean in H__new-sts_adm-ms-ass_spring-catalog-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-08-12 20:39:54,546 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:54,546 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:39:54,547 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:39:54,549 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:39:54,549 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-catalog-service\src\test\resources
+2020-08-12 20:39:59,974 [Worker-11: Launching Executing install in H__new-sts_adm-ms-ass_spring-catalog-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - H:\new-sts\adm-ms-ass\spring-catalog-service
+2020-08-12 20:39:59,974 [Worker-11: Launching Executing install in H__new-sts_adm-ms-ass_spring-catalog-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-12 20:40:11,582 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:11,584 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:40:11,586 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:40:11,591 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:11,591 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-catalog-service\src\test\resources
+2020-08-12 20:40:31,050 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-12 20:40:35,498 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:cart-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\cart-service\pom.xml.
+2020-08-12 20:40:36,839 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:order-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\order-service\pom.xml.
+2020-08-12 20:40:37,178 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:price-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\price-service\pom.xml.
+2020-08-12 20:40:37,612 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:spring-admin:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\spring-admin\pom.xml.
+2020-08-12 20:40:40,159 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:spring-catalog-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\spring-catalog-service\pom.xml.
+2020-08-12 20:40:45,110 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/main/java
+2020-08-12 20:40:45,110 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-08-12 20:40:45,110 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-08-12 20:40:45,111 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/test/java
+2020-08-12 20:40:45,499 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /order-service/src/main/java
+2020-08-12 20:40:45,499 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /order-service/src/main/resources
+2020-08-12 20:40:45,499 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /order-service/src/main/resources
+2020-08-12 20:40:45,500 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /order-service/src/test/java
+2020-08-12 20:40:45,728 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /price-service/src/main/java
+2020-08-12 20:40:45,728 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /price-service/src/main/resources
+2020-08-12 20:40:45,729 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /price-service/src/main/resources
+2020-08-12 20:40:45,729 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /price-service/src/test/java
+2020-08-12 20:40:46,008 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-admin/src/main/java
+2020-08-12 20:40:46,009 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-admin/src/main/resources
+2020-08-12 20:40:46,009 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-admin/src/main/resources
+2020-08-12 20:40:46,010 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-admin/src/test/java
+2020-08-12 20:40:46,357 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-catalog-service/src/main/java
+2020-08-12 20:40:46,358 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-catalog-service/src/main/resources
+2020-08-12 20:40:46,358 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-catalog-service/src/main/resources
+2020-08-12 20:40:46,359 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-catalog-service/src/test/java
+2020-08-12 20:40:47,088 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 16 sec
+2020-08-12 20:40:49,192 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:49,193 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:40:49,218 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:40:49,222 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:49,222 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\cart-service\src\test\resources
+2020-08-12 20:40:50,404 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:50,405 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:40:50,406 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:40:50,409 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:50,409 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\order-service\src\test\resources
+2020-08-12 20:40:51,725 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:51,726 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:40:51,727 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:40:51,729 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:51,729 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\price-service\src\test\resources
+2020-08-12 20:40:52,326 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:52,326 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:40:52,328 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:40:52,330 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:52,331 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-admin\src\test\resources
+2020-08-12 20:40:53,508 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:53,509 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-12 20:40:53,510 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-12 20:40:53,513 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-12 20:40:53,513 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\spring-catalog-service\src\test\resources
+2020-08-16 06:45:33,643 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-16 06:46:57,345 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:spring-catalog-service:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\product-catalog-service\pom.xml.
+2020-08-16 06:47:00,152 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 06:47:00,160 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-16 06:47:00,198 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-16 06:47:00,202 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 06:47:00,202 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\product-catalog-service\src\test\resources
+2020-08-16 06:47:02,453 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 06:47:02,537 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-16 06:47:02,539 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-16 06:47:02,543 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 06:47:02,543 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\product-catalog-service\src\test\resources
+2020-08-16 06:51:44,091 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cts:cloud-config:0.0.1-SNAPSHOT @ H:\new-sts\adm-ms-ass\cloud-config\pom.xml.
+2020-08-16 06:51:57,791 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-config/src/main/java
+2020-08-16 06:51:57,792 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config/src/main/resources
+2020-08-16 06:51:57,801 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-config/src/main/resources
+2020-08-16 06:51:57,888 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-config/src/test/java
+2020-08-16 06:52:02,234 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 57 sec
+2020-08-16 06:52:06,662 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 06:52:06,663 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-16 06:52:06,664 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-16 06:52:06,666 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 06:52:06,666 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\new-sts\adm-ms-ass\cloud-config\src\test\resources
